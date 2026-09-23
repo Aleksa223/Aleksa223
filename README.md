@@ -1,19 +1,10 @@
 [![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aleksa Pesic</h1>
-<h3 align="center">A passionate Data Analyst from Serbia</h3>
+<h3 align="center">A passionate Data Specialist from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksa223&label=Profile%20views&color=0e75b6&style=flat" alt="aleksa223" /> </p>
 
-- 🔭 I’m currently working on **FRED finance**
-
-- 👯 I’m looking to collaborate on **movie star generator**
-
-- 💬 Ask me about **Python, Pandas, SQL, Data Analysis**
-
-- 📫 How to reach me **aleksapesic73@gmail.com**
-
-- ⚡ Fun fact **I am actually a tennis athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
